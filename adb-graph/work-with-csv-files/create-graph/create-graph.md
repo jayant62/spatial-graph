@@ -53,11 +53,18 @@ Graph Studio is a feature of Autonomous Database. It is available as an option o
 
     Graph Studio consists of a set of pages accessed from the menu on the left.
 
-    The Home icon ![ALT text is not available for this image](images/home.svg "") takes you to the Home page.  
-    The Models icon ![ALT text is not available for this image](images/code-fork.svg "") takes you to the Models page where you start modeling your existing tables and views as a graph and then create, or instantiate, a graph.  
-    The Graph page ![ALT text is not available for this image](images/radar-chart.svg "") lists existing graphs for use in notebooks.  
-    The Notebook page ![ALT text is not available for this image](images/notebook.svg "") lists existing notebooks and lets you create a new one.  
-    The Jobs page ![ALT text is not available for this image](images/server.svg "") lists the status of background jobs and lets you view the associated log if any.  
+    The **Home** icon takes you to the Home page.  
+    The **Graph** page lists existing graphs for use in notebooks.  
+    The **Notebook** page lists existing notebooks and lets you create a new one. 
+    The **Templates** page let's you create templates for the graph visualizations.
+    The **Jobs** page lists the status of background jobs and lets you view the associated log if any.
+<!---
+    The Home icon ![Home icon](images/home.svg "") takes you to the Home page.  
+    The Graph page ![Graphs icon](images/radar-chart.svg "") lists existing graphs for use in notebooks.  
+    The Notebook page ![Notebook icon](images/notebook.svg "") lists existing notebooks and lets you create a new one. 
+    The Templates page ![Template icon](images/template.svg "")  let's you create templates for the graph visualizations.
+    The Jobs page ![Jobs icon](images/server.svg "") lists the status of background jobs and lets you view the associated log if any.
+--->
 
 
 ## Task 2: Create a graph of accounts and transactions
@@ -159,7 +166,7 @@ Graph Studio is a feature of Autonomous Database. It is available as an option o
 
     ![Shows in-memory enabled and the create graph button](./images/create-graph-in-memory.png " ")
 
-    After this, you will be taken to the Jobs page where the graph will be create it. Refresh the page to see how the status of the Graph is doing. 
+    After this, you will be taken to the Jobs page where the graph will be create it.  
 
     
     This concludes this lab. **You may now proceed to the next lab.**
